@@ -13,7 +13,7 @@ This project demonstrates real-time hand tracking using MediaPipe Hands and Tens
 1. Clone the repository:
     ```sh
     git clone https://github.com/TechAdrianPro/Live-Hand-Tracking.git
-    cd live-hand-tracking
+    cd Live-Hand-Tracking
     ```
 
 2. Open `index.html` in your web browser.
@@ -24,6 +24,10 @@ This project demonstrates real-time hand tracking using MediaPipe Hands and Tens
 - Open the `index.html` file in a web browser.
 - Allow the browser to access your camera.
 - The application will display the video feed with hand landmarks and contours overlaid.
+
+## Online Version
+
+You can also view the live hand tracking application online at: https://techadrianpro.github.io/Live-Hand-Tracking/
 
 ## Technologies Used
 
@@ -41,4 +45,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 - TensorFlow.js
 - MediaPipe Hands
-

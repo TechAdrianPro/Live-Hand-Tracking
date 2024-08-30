@@ -12,7 +12,7 @@ This project demonstrates real-time hand tracking using MediaPipe Hands and Tens
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/live-hand-tracking.git
+    git clone https://github.com/TechAdrianPro/Live-Hand-Tracking.git
     cd live-hand-tracking
     ```
 
@@ -41,4 +41,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 - TensorFlow.js
 - MediaPipe Hands
-- 
+
